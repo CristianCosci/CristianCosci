@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=dark)](https://github.com/CristianCosci/github-readme-stats) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=dark&hide_border=true)](https://github.com/CristianCosci/github-readme-stats) <br>
 ![Visitor Count](https://profile-counter.glitch.me/{CristianCosci}/count.svg)
