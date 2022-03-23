@@ -14,7 +14,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
-<img src="https://tenor.com/view/horse-gif-13449701" />
+<img src="https://imgur.com/gallery/gztLndp" />
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CristianCosci}/count.svg" /> </p>
