@@ -9,7 +9,7 @@
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianCosci&show_icons=true&theme=react&hide_border=true&layout=compact" alt="CristianCosci" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=react&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
