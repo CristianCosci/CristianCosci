@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
 <img width="49%" src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" />
 </p>
 
