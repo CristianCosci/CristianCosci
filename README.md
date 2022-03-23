@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CristianCosci/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci)](https://github.com/CristianCosci/github-readme-stats) <br>
 ![Visitor Count](https://profile-counter.glitch.me/{CristianCosci}/count.svg)
