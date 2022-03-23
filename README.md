@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=dark&hide_border=true)](https://github.com/CristianCosci/github-readme-stats) <br>
+
+📊 &nbsp;**This week I spent my time on**
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=CristianCosci&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 ![Visitor Count](https://profile-counter.glitch.me/{CristianCosci}/count.svg)
