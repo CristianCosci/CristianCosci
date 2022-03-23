@@ -15,9 +15,11 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
-<img src="https://giphy.com/gifs/kkYbDLFmNvO4E" />
+<img src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" />
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CristianCosci}/count.svg" /> </p>
 
 <iframe src="https://giphy.com/embed/kkYbDLFmNvO4E" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kkYbDLFmNvO4E">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/media/kkYbDLFmNvO4E/giphy.gif" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kkYbDLFmNvO4E">via GIPHY</a></p>
