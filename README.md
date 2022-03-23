@@ -14,6 +14,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
 <img src="https://imgur.com/gallery/gztLndp" />
 </p>
 
