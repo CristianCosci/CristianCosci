@@ -12,6 +12,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=dark&hide_border=true)](https://github.com/CristianCosci/github-readme-stats) <br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=dark&hide_border=true" /> <br>
+<div class="tenor-gif-embed" data-postid="13449701" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/horse-gif-13449701">Horse GIF</a>from <a href="https://tenor.com/search/horse-gifs">Horse GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CristianCosci}/count.svg" /> </p>
