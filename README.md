@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
-<img src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
+<img width="49%" src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" />
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CristianCosci}/count.svg" /> </p>
