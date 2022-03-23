@@ -15,6 +15,5 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=dark&hide_border=true)](https://github.com/CristianCosci/github-readme-stats) <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CristianCosci&show_icons=true&theme=gotham" alt="CristianCosci" /> </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CristianCosci}/count.svg" /> </p>
