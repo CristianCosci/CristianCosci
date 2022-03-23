@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" /> <br>
-<div class="tenor-gif-embed" data-postid="13449701" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/horse-gif-13449701">Horse GIF</a>from <a href="https://tenor.com/search/horse-gifs">Horse GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
+<img src=">https://tenor.com/view/horse-gif-13449701" />
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CristianCosci}/count.svg" /> </p>
