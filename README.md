@@ -27,12 +27,13 @@
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CristianCosci&show_icons=true&theme=react&hide_border=true&layout=compact" alt="CristianCosci" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CristianCosci&&show_icons=true&theme=react&hide_border=true" alt="CristianCosci" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CristianCosci&theme=react&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
+<img width="35%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CristianCosci&theme=react&hide_border=true" />
+  
 <img width="49%" src="https://media.giphy.com/media/kkYbDLFmNvO4E/giphy.gif" />
 </p>
 
