@@ -4,7 +4,7 @@
 </h3>
 
 - :books: I have a Bachelor Degree :mortar_board: in Computer Science.
-- :books: I am currently a Master's Degree student in Computer Science: **Artificial Intelligence** :computer:.
+- :books: I have a Master's Degree in Computer Science: **Artificial Intelligence** :computer:.
 - :rocket: I am an AI enthusiast.
   - I love ML, DL and so on... :factory:
 - ⚡ **Programming Languages and Tools i like most**:
