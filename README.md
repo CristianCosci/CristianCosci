@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
--  PhD Student in Artificial Intelligence - National PhD in AI :computer: :books:
+- PhD Student in Artificial Intelligence - National PhD in AI :computer: :books:
   - **Lead University**: *University of Pisa (AI for Society)*
   - **Headquarters**: *Alma Mater Studiorum, University of Bologna*
   - **Research Topic**: *Generative AI and Trustworthiness*
