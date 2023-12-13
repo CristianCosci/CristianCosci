@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- :books: PhD Student in Artificial Intelligence - National PhD in AI :computer:
+-  PhD Student in Artificial Intelligence - National PhD in AI :computer: :books:
   - **Lead University**: *University of Pisa (AI for Society)*
   - **Headquarters**: *Alma Mater Studiorum, University of Bologna*
   - **Research Topic**: *Generative AI and Trustworthiness*
-- :books: Master's Degree in Computer Science: **Artificial Intelligence** :computer:.
-- :books: Bachelor's Degree :mortar_board: in Computer Science.
-- :rocket: I am an AI enthusiast.
+- Master's Degree in Computer Science: **Artificial Intelligence** :computer: :books:
+- Bachelor's Degree :mortar_board: in Computer Science :books:
+- I am an AI enthusiast :rocket:
   - I love ML, DL and so on... :factory:
 - ⚡ **Programming Languages and Tools i like most**:
 <p align="left"> 
