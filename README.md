@@ -8,7 +8,7 @@
   - **Headquarters**: *Alma Mater Studiorum, University of Bologna*
   - **Research Topic**: *Generative AI and Trustworthiness*
 - Master's Degree in Computer Science: **Artificial Intelligence** :computer: :books:
-- Bachelor's Degree :mortar_board: in Computer Science :books:
+- Bachelor's Degree in Computer Science :computer: :books:
 - I am an AI enthusiast :rocket:
   - I love ML, DL and so on... :factory:
 - ⚡ **Programming Languages and Tools i like most**:
