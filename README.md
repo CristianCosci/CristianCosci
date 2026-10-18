@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-cosci-69461a1b3"><img src="https://img.shields.io/badge/LinkedIn-Cristian%20Cosci-0A66C2?style=flat" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=6T5XO0UAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Cristian%20Cosci-4285F4?style=flat" alt="Google Scholar"></a>
   <img src="https://hits.sh/github.com/CristianCosci.svg?label=Profile%20views&color=0a66c2" alt="Profile views">
 </p>
 
@@ -66,6 +67,7 @@ Before joining Reply I was a **Researcher in Artificial Intelligence at the Univ
 </p>
 
 - **Generative AI**: Continual Pre-Training, Fine-Tuning (LoRA), RAG, synthetic data generation
+- **Optimization**: Operations Research, Constraint Programming with Google OR-Tools (CP-SAT)
 - **Libraries**: PyTorch, TensorFlow, Keras, OpenCV, NumPy, SciPy, NetworkX, Pandas, Matplotlib, scikit-learn
 - **Cloud**: AWS, GCP, Azure
 
