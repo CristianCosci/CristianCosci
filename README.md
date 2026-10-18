@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-cosci-69461a1b3"><img src="https://img.shields.io/badge/LinkedIn-Cristian%20Cosci-0A66C2?style=flat" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=CristianCosci&label=Profile%20views&color=0A66C2&style=flat" alt="Profile views">
+  <img src="https://hits.sh/github.com/CristianCosci.svg?label=Profile%20views&color=0a66c2" alt="Profile views">
 </p>
 
 ## About me
 
 I'm a Machine Learning Engineer based in Italy, working at **Machine Learning Reply** (Turin), where I design and build AI solutions in:
 
-- **Generative AI & LLMs**: adapting open-source LLMs to enterprise domains through Continual Pre-Training and Fine-Tuning (LoRA), from data preprocessing and synthetic data generation to evaluation
+- **Generative AI & LLMs**: adapting open-source LLMs to enterprise domains through Continual Pre-Training and Fine-Tuning, from data preprocessing and synthetic data generation to evaluation
 - **Computer Vision**: design and development of Computer Vision solutions for enterprise use cases
 - **Logistics & Optimization**: Machine Learning and optimization algorithms for intermodal rail and road transport planning and for the scheduling of container terminal operations
 
